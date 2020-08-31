@@ -7,7 +7,6 @@ let number = 5;
 
 if ( number > 1) {
     for (let i = 0; i < number; i++) {
-        /* base */
         console.log('*'.repeat(number));
     }
 };
